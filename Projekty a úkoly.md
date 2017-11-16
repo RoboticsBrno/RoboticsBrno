@@ -1,3 +1,10 @@
+# Úkoly
+Jednorázové činnosti nebo podaktivita v rámci nějakého projektu.
+
+## Společné
+- [x] Vytvořit instalační skript pro nové Windows 10 PC na Robotárně přes [Chocolatey](https://chocolatey.org/) (2017-10-17 Honza Mrázek - https://github.com/RoboticsBrno/Robotarna-service)
+- [x] Nastavit mountování síťových disku z NASu na Linuxové PC (2017-11-15 Honza Mrázek - https://github.com/RoboticsBrno/Robotarna-service/blob/master/linux-nas-mount.md)
+
 # Projekty
 Soupis projektů, které bychom chtěli realizovat.
 
